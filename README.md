@@ -1,2 +1,2 @@
-# Cpp_dev
-assignments of "Design Method and Develop Environment of Software"
+# Cpp dev
+WARNING: ALL the C++ codes were written in Windows using GBK encoding, instead of UTF-8!  
